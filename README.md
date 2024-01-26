@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning NextJS and Devops  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN stack and javascript related technologies  
   
 
 - ⚡ Fun fact:  I like to build PCs and read  
