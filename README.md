@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Joseph alvarez, a  software developer🚀</div>  
+### <div align="center">Hi! I'm Joseph and I am a software developer🚀</div>  
     
 
 - ❓ Ask me about anything related to MERN stack and javascript related technologies  
