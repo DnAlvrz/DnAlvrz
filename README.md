@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Don alvarez, a full-time software developer at codalify  👨‍💻 working remotely since 2023🚀</div>  
+### <div align="center">I'm Joseph alvarez, a  software developer🚀</div>  
   
 
 - 🌱 I’m currently learning NextJS and Devops  
