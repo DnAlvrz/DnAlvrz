@@ -46,6 +46,5 @@ I’m always up for chatting about dev work, side projects, or new ideas. Don’
 
 ## 📊 GitHub Stats
 
-```
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DnAlvrz&show_icons=true&hide_title=true)
-```
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fermelomendoza&show_icons=true&hide_title=true)
+
