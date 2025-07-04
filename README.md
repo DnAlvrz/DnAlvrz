@@ -1,7 +1,6 @@
 ### <div align="center">Hi! I'm Joseph and I am a software developer🚀</div>  
     
-
-- ❓ Ask me about anything related to MERN stack and javascript related technologies  
+### <div align="center">Hi! I'm Joseph and I am a software developer🚀</div>  
 
 <br/>  
 
