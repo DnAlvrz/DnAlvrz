@@ -37,11 +37,7 @@ Git & GitHub, VS Code, Docker, Chrome Extension Development
 
 ## 🤝 Connect With Me
 
-I’m always up for chatting about dev work, side projects, or new ideas. Don’t hesitate to reach out:
-
-- **LinkedIn:** [Your LinkedIn URL]  
-- **Email:** [Your Email Address]  
-
+I’m always up for chatting about dev work, side projects, or new ideas. Don’t hesitate to reach out
 ---
 
 ## 📊 GitHub Stats
