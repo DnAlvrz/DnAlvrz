@@ -31,17 +31,27 @@ Backend: Node.js, NestJS, Express.js
 Databases: PostgreSQL, MongoDB, MySQL, MS SQL Server
 APIs: RESTful services, GraphQL
 
+
+
 <div align="right">
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" style=\"margin-left: 50px;\"/>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" style="margin-left: 50px;"/>
 </div>
+
+
 
 🌟 Connect With Me
 I'm always up for chatting about dev work, side projects, or new ideas. Don't hesitate to reach out
 
+
+
 📊 GitHub Analytics
+
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DnAlvrz&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
+
 
 🤝 Let's Build Something Amazing
 I'm always up for chatting about dev work, side projects, or new ideas. Don't hesitate to reach out
