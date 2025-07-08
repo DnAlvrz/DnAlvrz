@@ -34,12 +34,12 @@ APIs: RESTful services, GraphQL
 
 🌟 Connect With Me
 I'm always up for chatting about dev work, side projects, or new ideas. Don't hesitate to reach out
-📊 GitHub Analytics
 
+📊 GitHub Analytics
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DnAlvrz&theme=tokyonight" alt="GitHub Streak" />
 </div>
-🤝 Let's Build Something Amazing
 
+🤝 Let's Build Something Amazing
 I'm always up for chatting about dev work, side projects, or new ideas. Don't hesitate to reach out
 </div>
