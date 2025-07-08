@@ -7,6 +7,7 @@
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs" width="60%"/><br>
 </div>
+
 ##💡 What Drives Me
 I'm a Full-Stack Developer who enjoys building things that actually make life easier. Since 2016, I’ve been working with both front-end and back-end technologies, focusing on creating clean, efficient solutions that scale.
 🛠️ Technical Arsenal
@@ -22,7 +23,7 @@ Pushing apps to be faster, leaner, and smoother
 </div>
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" autoplay  margin-lefy="20px"/>
 
 ## 💻 Tech I Work With
 Languages: JavaScript, TypeScript, Python, SQL
