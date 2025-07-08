@@ -38,19 +38,11 @@ Pushing apps to be faster, leaner, and smoother
 🌟 Connect With Me
 I'm always up for chatting about dev work, side projects, or new ideas. Don't hesitate to reach out
 📊 GitHub Analytics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DnAlvrz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnAlvrz&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DnAlvrz&theme=tokyonight" alt="GitHub Streak" />
 </div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DnAlvrz&theme=tokyo-night&hide_border=true" />
-</div>
 🤝 Let's Build Something Amazing
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5b2b4b3e-4b87-4f0e-b0d2-6e8fdb8a7f6f" width="300" />
-</div>
+
 I'm always up for chatting about dev work, side projects, or new ideas. Don't hesitate to reach out
 </div>
