@@ -1,4 +1,6 @@
-# Don Alvarez | Full-Stack Developer
+<div align="center">
+  <h1>Don Alvarez | Full-Stack Developer</h1>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+scalable+web+applications;Full-Stack+Developer+since+2016;Creating+smart+solutions;Making+complex+problems+simple" alt="Typing SVG" />
