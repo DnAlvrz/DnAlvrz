@@ -7,17 +7,14 @@
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs" width="60%"/><br>
 </div>
-
 ---
 
 ## 💡 What Drives Me
-
 I'm a Full-Stack Developer who enjoys building things that actually make life easier. Since 2016, I’ve been working with both front-end and back-end technologies, focusing on creating clean, efficient solutions that scale.
 
 ---
 
 ## 🛠️ Technical Arsenal
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,postgres,mongodb,docker,git,vscode&perline=5" />
 </div>
@@ -25,7 +22,6 @@ I'm a Full-Stack Developer who enjoys building things that actually make life ea
 ---
 
 ## 📈 What I'm Into
-
 - Building scalable, performant web apps
 - Exploring modern dev tools and frameworks
 - Pushing apps to be faster, leaner, and smoother
@@ -33,7 +29,6 @@ I'm a Full-Stack Developer who enjoys building things that actually make life ea
 ---
 
 ## 💻 Tech I Work With
-
 - **Languages:** JavaScript, TypeScript, Python, SQL  
 - **Frontend:** React, Next.js, HTML5, CSS3, Tailwind CSS  
 - **Backend:** Node.js, NestJS, Express.js  
@@ -47,20 +42,16 @@ I'm a Full-Stack Developer who enjoys building things that actually make life ea
 ---
 
 ## 🌟 Connect With Me
-
 I'm always up for chatting about dev work, side projects, or new ideas. Don't hesitate to reach out.
 
 ---
 
 ## 📊 GitHub Analytics
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DnAlvrz&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
-
 ## 🤝 Let's Build Something Amazing
-
 I'm always up for chatting about dev work, side projects, or new ideas. Don’t hesitate to reach out!
 
