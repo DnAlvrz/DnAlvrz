@@ -22,9 +22,9 @@ Pushing apps to be faster, leaner, and smoother
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,postgres,mongodb,docker,git,vscode&perline=5" />
 </div>
 
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" autoplay  margin-lefy="20px"/>
-
+<div align="right">
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" autoplay  margin-left="20px"/>
+</div>
 ## 💻 Tech I Work With
 Languages: JavaScript, TypeScript, Python, SQL
 Frontend: React, Next.js, HTML5, CSS3, Tailwind CSS
