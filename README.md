@@ -25,6 +25,8 @@ Pushing apps to be faster, leaner, and smoother
 <div align="right">
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"/>
 </div>
+
+
 ## 💻 Tech I Work With
 Languages: JavaScript, TypeScript, Python, SQL
 Frontend: React, Next.js, HTML5, CSS3, Tailwind CSS
