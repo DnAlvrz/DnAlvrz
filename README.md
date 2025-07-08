@@ -22,9 +22,6 @@ Pushing apps to be faster, leaner, and smoother
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,postgres,mongodb,docker,git,vscode&perline=5" />
 </div>
 
-<div align="right">
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"/>
-</div>
 
 
 ## 💻 Tech I Work With
@@ -34,6 +31,9 @@ Backend: Node.js, NestJS, Express.js
 Databases: PostgreSQL, MongoDB, MySQL, MS SQL Server
 APIs: RESTful services, GraphQL
 
+<div align="right">
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"/>
+</div>
 
 🌟 Connect With Me
 I'm always up for chatting about dev work, side projects, or new ideas. Don't hesitate to reach out
