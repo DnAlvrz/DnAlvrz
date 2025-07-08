@@ -1,8 +1,8 @@
 # Don Alvarez | Full-Stack Developer
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+intelligent+route+solutions;Full-Stack+Developer+since+2016;Optimizing+delivery+routes+%26+logistics;Making+complex+problems+simple" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+scalable+web+applications;Full-Stack+Developer+since+2016;Creating+smart+solutions;Making+complex+problems+simple" alt="Typing SVG" />
 </div>
-
+<div align="center">
 
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs" width="60%"/><br>
