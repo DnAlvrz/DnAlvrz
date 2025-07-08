@@ -23,7 +23,7 @@ Pushing apps to be faster, leaner, and smoother
 </div>
 
 <div align="right">
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" autoplay  margin-left="20px"/>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"/>
 </div>
 ## 💻 Tech I Work With
 Languages: JavaScript, TypeScript, Python, SQL
