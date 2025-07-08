@@ -28,9 +28,6 @@ Build Tools: Vite, Webpack
 Development: VS Code, Chrome DevTools, Postman
 
 
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d33-987a-9aa089c3533e" width="300" />
-</div>
 
 📈 What I'm Into
 
@@ -41,9 +38,6 @@ Pushing apps to be faster, leaner, and smoother
 🌟 Connect With Me
 I'm always up for chatting about dev work, side projects, or new ideas. Don't hesitate to reach out
 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f4e8ba5c-4c9e-4e8d-90a8-d0f8e8a0b6c0" width="400" />
-</div>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DnAlvrz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnAlvrz&layout=compact&langs_count=8&theme=tokyonight"/>
