@@ -59,10 +59,4 @@ I'm always up for chatting about dev work, side projects, or new ideas. Don't he
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5b2b4b3e-4b87-4f0e-b0d2-6e8fdb8a7f6f" width="300" />
 </div>
 I'm always up for chatting about dev work, side projects, or new ideas. Don't hesitate to reach out
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2ca3bfb6-b3c2-43b1-9b6d-8f9b3e4b3f6a" width="400" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=The+best+code+solves+real+problems+elegantly;Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!" alt="Typing SVG" />
 </div>
