@@ -32,7 +32,7 @@ Databases: PostgreSQL, MongoDB, MySQL, MS SQL Server
 APIs: RESTful services, GraphQL
 
 <div align="right">
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="250"/>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" style=\"margin-left: 50px;\"/>
 </div>
 
 🌟 Connect With Me
