@@ -34,28 +34,16 @@ I'm a Full-Stack Developer who enjoys building things that actually make life ea
 - **Backend:** Node.js, NestJS, Express.js  
 - **Databases:** PostgreSQL, MongoDB, MySQL, MS SQL Server
 
-<div align="center">
- <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
-</div>
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
-<div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 10px;">
-
-</div>
-
-<div style="flex: 1; border: 1px solid #ccc; border-radius: 10px; padding: 10px; display: flex; justify-content: center;">
-
-</div>
-</div>
 
 ## 🌟 Connect With Me
 I'm always up for chatting about dev work, side projects, or new ideas. Don't hesitate to reach out.
-
 
 
 ## 📊 GitHub Analytics
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DnAlvrz&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
 
 
 ## 🤝 Let's Build Something Amazing
