@@ -53,7 +53,7 @@ I'm always up for chatting about dev work, side projects, or new ideas. Don't he
 
 
 ## 📊 GitHub Analytics
-<div>
+<div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DnAlvrz&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
