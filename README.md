@@ -27,18 +27,19 @@ I'm a Full-Stack Developer who enjoys building things that actually make life ea
 - Exploring modern dev tools and frameworks
 - Pushing apps to be faster, leaner, and smoother
 
+
+## 💻 Tech I Work With
 <div align="center">
- ## 💻 Tech I Work With
   <table>
     <tr>
-      <td>
+      <td style="border:none;outline:none;">
         - **Languages:** JavaScript, TypeScript, Python, SQL  
         - **Frontend:** React, Next.js, HTML5, CSS3, Tailwind CSS  
         - **Backend:** Node.js, NestJS, Express.js  
         - **Databases:** PostgreSQL, MongoDB, MySQL, MS SQL Server  
         - **APIs:** RESTful services, GraphQL
       </td>
-      <td>
+      <td style="border:none;outline:none;">
         <div align="right">
           <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="400" style="position:relative; top:-200px;"/>
         </div>
