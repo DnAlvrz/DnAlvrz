@@ -29,19 +29,34 @@ I'm a Full-Stack Developer who enjoys building things that actually make life ea
 
 
 ## 💻 Tech I Work With
+
+
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+
+<div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 10px;">
+
+ - **Languages:** JavaScript, TypeScript, Python, SQL  
+  - **Frontend:** React, Next.js, HTML5, CSS3, Tailwind CSS  
+  - **Backend:** Node.js, NestJS, Express.js  
+  - **Databases:** PostgreSQL, MongoDB, MySQL, MS SQL Server  
+
+</div>
+
+<div style="flex: 1; border: 1px solid #ccc; border-radius: 10px; padding: 10px; display: flex; justify-content: center;">
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="400" style="position:relative; top:-200px;"/>
+</div>
+
+</div>
+
 <div align="center">
   <table>
     <tr>
       <td style="border:none;outline:none;">
-        - **Languages:** JavaScript, TypeScript, Python, SQL  
-        - **Frontend:** React, Next.js, HTML5, CSS3, Tailwind CSS  
-        - **Backend:** Node.js, NestJS, Express.js  
-        - **Databases:** PostgreSQL, MongoDB, MySQL, MS SQL Server  
-        - **APIs:** RESTful services, GraphQL
+       
       </td>
       <td style="border:none;outline:none;">
         <div align="right">
-          <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="400" style="position:relative; top:-200px;"/>
+          
         </div>
       </td>
     </tr>
