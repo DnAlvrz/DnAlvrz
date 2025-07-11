@@ -36,7 +36,7 @@ I'm a Full-Stack Developer who enjoys building things that actually make life ea
 - **APIs:** RESTful services, GraphQL
 
 <div align="right">
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" style="margin-left: 50px;"/>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="400" style="position:relative; top:-200px;"/>
 </div>
 
 
