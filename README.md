@@ -48,21 +48,7 @@ I'm a Full-Stack Developer who enjoys building things that actually make life ea
 
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td style="border:none;outline:none;">
-       
-      </td>
-      <td style="border:none;outline:none;">
-        <div align="right">
-          
-        </div>
-      </td>
-    </tr>
-  </table>
 
-</div>
 
 
 
