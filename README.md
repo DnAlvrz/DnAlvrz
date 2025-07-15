@@ -45,7 +45,3 @@ I'm always up for chatting about dev work, side projects, or new ideas. Don't he
 </div>
 
 
-
-## 🤝 Let's Build Something Amazing
-I'm always up for chatting about dev work, side projects, or new ideas. Don’t hesitate to reach out!
-
