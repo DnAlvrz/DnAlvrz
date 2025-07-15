@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Don Alvarez | Full-Stack Developer</h1>
+  <h1>Full-Stack Developer</h1>
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@ I'm a Full-Stack Developer who enjoys building things that actually make life ea
 
 ## 🛠️ Technical Arsenal
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,postgres,mongodb,docker,git,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,angular,laravel,php,nodejs,dotnet,postgres,mongodb,docker,git,vscode&perline=5" />
 </div>
 
 
@@ -30,7 +30,7 @@ I'm a Full-Stack Developer who enjoys building things that actually make life ea
 
 ## 💻 Tech I Work With
 - **Languages:** JavaScript, TypeScript, Python, SQL  
-- **Frontend:** React, Next.js, HTML5, CSS3, Tailwind CSS  
+- **Frontend:** React, Vue, AngularJS HTML5, CSS3, Tailwind CSS  
 - **Backend:** Node.js, NestJS, Express.js  
 - **Databases:** PostgreSQL, MongoDB, MySQL, MS SQL Server
 
